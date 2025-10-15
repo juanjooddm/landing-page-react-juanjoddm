@@ -2,7 +2,7 @@ function Card(props) {
 
     
     return (
-        <div className=" col-xl-3 col-lg-3 col-md-3 col-xs-12">
+        <div className=" col-xl-3 col-lg-3 col-md-6 col-xs-12">
 
             <div className="card b-1 ">
                 <div className="img ratio ratio-1x1">
